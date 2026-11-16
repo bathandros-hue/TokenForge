@@ -1,0 +1,7 @@
+Neural networks learn from repeated patterns.
+Neural networks learn from repeated patterns.
+Neural networks learn representations.
+Language models tokenize text before training.
+Language models tokenize text before training.
+The attention mechanism combines representations.
+The attention mechanism combines representations.
